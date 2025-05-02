@@ -1,0 +1,40 @@
+<dict>
+    <key>PayloadDescription</key>
+    <string>Zap365 Configuration Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>Fleetly Configuration</string>
+    <key>PayloadIdentifier</key>
+    <string>com.irl.zap365.config1</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>3C03929C-D6CA-41F9-9E4E-3C2227868E11</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.app.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.irl.zap365.managedapp</string>
+            <key>PayloadUUID</key>
+            <string>CFD75594-390E-47F7-A7E1-F992DEBFF45A</string>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadDisplayName</key>
+            <string>Zap365 Managed App Config</string>
+            <key>BundleIdentifier</key>
+            <string>com.irl.zap365</string>
+            <key>Configuration</key>
+            <dict>
+                <key>AzureADClientID</key>
+                <string>5a9d5f59-7db2-4884-b090-2de09540d4b0</string>
+            </dict>
+        </dict>
+    </array>
+</dict>

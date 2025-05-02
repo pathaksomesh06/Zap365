@@ -2,9 +2,9 @@
     <key>PayloadDescription</key>
     <string>Zap365 Configuration Profile</string>
     <key>PayloadDisplayName</key>
-    <string>Fleetly Configuration</string>
+    <string>Zap365 Configuration</string>
     <key>PayloadIdentifier</key>
-    <string>com.irl.zap365.config1</string>
+    <string>com.irl.zap365.config</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
@@ -33,7 +33,7 @@
             <key>Configuration</key>
             <dict>
                 <key>AzureADClientID</key>
-                <string>5a9d5f59-7db2-4884-b090-2de09540d4b0</string>
+                <string>Replace-with-your-azure-ad-app-id</string>
             </dict>
         </dict>
     </array>
